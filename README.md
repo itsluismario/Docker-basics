@@ -19,7 +19,6 @@
 
 # 🐳 A brief docker course
 
-<h1 aling="center"> What's Docker </h1>
 Docker is an open source platform that enables developers to build, deploy, run, update and manage containers—standardized
 Executable components that combine application source code with the operating system (OS) libraries and dependencies required to run
 That code in any environment.
