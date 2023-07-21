@@ -7,8 +7,8 @@
   Docker course
 </h1>
 <p align="center">
-  <a href="https://github.com/itsluismario/Docker-basics" target="_blank">
-    https://github.com/itsluismario/Docker-basics
+  <a href="https://important-tachometer-040.notion.site/Docker-64bbcf379d704751803f1f64d2ea123b?pvs=4" target="_blank">
+    My notes
   </a>
 </p>
 
